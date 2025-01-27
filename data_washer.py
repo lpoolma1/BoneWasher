@@ -4,6 +4,7 @@
 This is the final iteration of code that will be used to clean the faunal data for Laurel's Zincirli dissertation
 Created: May 4, 2022
 Updated: February 2, 2023
+Final Version Upload: January 10, 2025
 
 """
 
